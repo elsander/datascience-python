@@ -8,6 +8,8 @@ Version number changes (major.minor.micro) in this package denote the following:
 - A major version will increase if there are any backwards-incompatible changes in any of the packages contained in this Docker image, or any other backwards-incompatible changes in the execution environment.
 
 ## Unreleased
+
+## [6.0.0] - 2020-02-17
 ### Changed
 - Python 3.7.1 -> 3.7.6
 - Conda 4.6.8 -> 4.8.1
